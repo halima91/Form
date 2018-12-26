@@ -1,0 +1,21 @@
+header h1{
+text-align: center;
+    JUSTIFY-CONTENT: baseline;
+    color: cadetblue;
+}
+#bg-img{
+    background: url('image3.jpg');
+    background-size:100% ;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+button{
+    width:100%;
+    margin-bottom: 3%;
+}
+.form-group label{
+    color:#dc3545;
+}
+.btn{
+    background-color: #dc3545;
+}
